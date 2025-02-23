@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# lib/debug.py
+
 import ipdb;
 
 from classes.many_to_many import Article
